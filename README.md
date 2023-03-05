@@ -22,3 +22,5 @@ This folder contains all the files and folder for one specific project.
 6. Created an I=index.html and style.css and the first-site repository.
 
 7.Copy and paste the code from codesandbox into the github files.
+
+8. Live site is here: https://ukjuoq.csb.app/
